@@ -21,20 +21,7 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 
 ##  Output Screenshots
 
-<p float="left">
-    <img src="./output-screenshots/waf-ss1.png" width="400"/>
-    <img src="./output-screenshots/waf-ss2.png" width="400"/>
-</p>
 
-<p float="left">
-    <img src="./output-screenshots/waf-ss3.png" width="400"/>
-    <img src="./output-screenshots/waf-ss4.png" width="400"/>
-</p>
-
-<p float="left">
-    <img src="./output-screenshots/waf-ss5.png" width="400"/>
-    <img src="./output-screenshots/waf-ss6.png" width="400"/>
-</p>
 
 
 ## Tech Stack
@@ -154,13 +141,3 @@ bash
 python app.py
 ```
 
-## License
-
-MIT License
-" > README.md
-
-## Add and commit README
-git add README.md
-git commit -m "Add README.md"
-git push
-# Advanced-WAF
